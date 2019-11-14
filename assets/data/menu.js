@@ -6,5 +6,9 @@ export default [
   {
     link: '/lightning2d',
     label: 'Lightning 2D'
+  },
+  {
+    link: '/lake',
+    label: 'Surface Lakes'
   }
 ]

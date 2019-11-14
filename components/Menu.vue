@@ -102,8 +102,10 @@
   top: 0;
   right: 0;
   z-index: 0;
-  padding-top: 90px;
   text-align: right;
+  list-style: none;
+  margin: 0;
+  padding: 90px 0 0;
   li {
     margin: 20px 25px;
     > a {
